@@ -41,6 +41,7 @@ cd MultiVendor
 cd frontend
 npm install
 npm run dev
+npm update
 
 
 
